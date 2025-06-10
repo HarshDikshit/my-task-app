@@ -26,9 +26,20 @@ This is a simple React Native mobile application called "My Tasks," built using 
 
    ```bash
    npm install
+   npm i @react-native-async-storage/async-storage expo-checkbox expo-notifications expo-dev-client
    ```
 
-4. **Create a Development Build**:
+4. **Run app through Expo Go**:
+    - Download expo go app from respective app store.
+    - Enter following command to start expo app in the terminal.
+
+    ```bash
+    npx expo start
+    ```
+
+    - Scan the QR code and app will start to build.
+
+5. **Create a Development Build** (Optional):
 
    - **Configure EAS Build**:
 
