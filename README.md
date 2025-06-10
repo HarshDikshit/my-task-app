@@ -18,8 +18,8 @@ This is a simple React Native mobile application called "My Tasks," built using 
 2. **Clone the Repository**:
 
    ```bash
-   git clone <your-repo-url>
-   cd my-tasks-app
+   git clone https://github.com/HarshDikshit/my-task-app.git
+   cd my-task-app
    ```
 
 3. **Install Dependencies**:
